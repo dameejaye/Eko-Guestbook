@@ -1,0 +1,102 @@
+
+body{
+	font-size: 20px;
+
+}
+
+
+.heading{
+	width: 50%;
+	margin: 10% auto;
+	text-align: center;
+	color: orangered;
+	background: lavender;
+	border-radius: 20px;
+	border:0px solid #fa0;
+	font-family: arial;
+
+}
+
+
+.input-table{
+	text-align: left;
+	font-size: 40px;
+	font-family: arial;
+	color: orangered;
+	background: lavender;
+	border-radius: 5px;
+	padding: 5px 20px;
+}
+
+form{
+	
+	margin: 10% auto;
+	border-radius: 5px;
+	padding: 10;
+	
+	border:0px solid #0ff;
+}
+
+form p {
+	color: red;
+	margin:0px;
+}
+
+.name-input{
+	width: 70%;
+	background: #fff;
+	color: maroon;
+	padding: 10px;
+	border:1px solid #0ff;
+}
+
+.add_btn{
+	height: 40px;
+	background: lavender;
+	color: orangered;
+	border:0px solid black;
+	border-radius: 5px;
+	padding: 5px 20px;
+	font-size: 20px;
+}
+
+table{
+	width: 80%;
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+tr{
+	border-bottom: 0px solid #000;
+}
+th{
+	font-size: 20px;
+	color: orangered;
+	background: lavender;
+}
+th, td{
+	border: none;
+	height: 30px;
+	padding:  2px;
+
+} 
+tr:hover{
+	background: orangered;
+}
+.task{
+	text-align: left;
+}
+.delete{
+	text-align: center;
+}
+.delete a{
+	color: white;
+	background: red;
+	padding: 1px 6px;
+	border-radius: 3px;
+	text-decoration: none;
+}
+.output{
+	color: lavender;
+	font-family: arial;
+	font-size: 20px;
+}
